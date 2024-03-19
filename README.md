@@ -3,10 +3,6 @@ Junior Android Developer and Project Manager based in Indonesia.
 
 -------------------------------------------------------------------------------
 
-📫 Interested to collaborate? Email me: mauliffaarnesya@gmail.com
-
--------------------------------------------------------------------------------
-
 <h3 align="left">Languages and Tools:</h3>
 <br>
 <p align="left"> 
