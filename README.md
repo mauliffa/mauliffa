@@ -36,8 +36,7 @@ Junior Android Developer and Project Manager based in Indonesia.
     <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
-
-    <br>
+<br>
 
 📫 Interested to collaborate? Email me: mauliffaarnesya@gmail.com
   
