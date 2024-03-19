@@ -1,6 +1,7 @@
 ###          Hi, I'm Mauliffa Arnesya Rania 👋
 Junior Android Developer and Project Manager based in Indonesia.
 
+📫 Interested to collaborate? Email me: mauliffaarnesya@gmail.com
 -------------------------------------------------------------------------------
 
 <h3 align="left">Languages and Tools:</h3>
@@ -37,6 +38,4 @@ Junior Android Developer and Project Manager based in Indonesia.
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
 <br>
-
-📫 Interested to collaborate? Email me: mauliffaarnesya@gmail.com
   
