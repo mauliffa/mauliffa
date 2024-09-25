@@ -1,6 +1,6 @@
 
 ###          Hi, I'm Mauliffa Arnesya Rania 👋
-Junior Android Developer and Project Manager based in Indonesia.
+Android Developer and Project Manager based in Indonesia.
 #
 
 <h3 align="left">Languages and Tools:</h3>
